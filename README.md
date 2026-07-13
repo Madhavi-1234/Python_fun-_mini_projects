@@ -2,8 +2,8 @@
 This python repo contains mini and easy fun projects that enhance the basics understamding 
 about some  important python conecpts 
 
-[x]  Number guessing Game
-[x]  Word guessing Game
-[x]  Hangmam Game
-[x] 
-[x] 
+[X]  Number guessing Game,
+[X]  Word guessing Game
+[X]  Hangmam Game
+[] 
+[ 
