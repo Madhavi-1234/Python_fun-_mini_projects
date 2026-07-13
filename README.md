@@ -1,9 +1,10 @@
-# Python_fun_mini_projects
-This python repo contains mini and easy fun projects that enhance the basics understamding 
-about some  important python conecpts 
+# Python Fun Mini Projects
 
-[X]  Number guessing Game,
-[X]  Word guessing Game
-[X]  Hangmam Game
-[] 
-[ 
+A collection of beginner-friendly Python mini projects that help build a strong foundation in Python programming. Each project focuses on improving problem-solving skills and understanding essential Python concepts through practical implementation.
+
+## Projects Included
+
+- ✅ Number Guessing Game
+- ✅ Word Guessing Game
+- ✅ Hangman Game
+- 🚧 More projects will be added soon.
