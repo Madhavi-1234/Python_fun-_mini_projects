@@ -17,3 +17,8 @@ This repository aims to help beginners learn Python by building simple, practica
 
 Contributions and suggestions are always welcome! Feel free to open an issue or submit a pull request.
 
+
+## ⭐ Support
+
+If you find these projects helpful, consider giving this repository a ⭐ on GitHub.
+
