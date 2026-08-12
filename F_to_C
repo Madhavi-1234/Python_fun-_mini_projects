@@ -1,0 +1,10 @@
+
+# Function to convert fahrenheit to celsius
+# to round out the value of celsius till 2
+
+def f_to_c(f):
+  return 5*(f-32/9)
+
+f= int(input("enter value of f: "))
+c= f_to_c(f)
+print(f"fahrenheit to celsius is : {round(c,2)} °C")
