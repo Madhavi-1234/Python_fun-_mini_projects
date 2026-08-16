@@ -8,6 +8,8 @@ A collection of beginner-friendly Python mini projects designed to strengthen co
 * ✅ Word Guessing Game
 * ✅ Hangman Game
 * ✅ Rock Paper Scissors Game
+* ✅ Guess the word Game
+* ✅ snake water gun Game
 * 🚧 More exciting mini projects coming soon!
 
 ## 🎯 Goal
