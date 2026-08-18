@@ -12,6 +12,7 @@ A collection of beginner-friendly Python mini projects designed to strengthen co
 🚧 OOP-based Python projects coming soon!
 🚧 More exciting mini projects coming soon!.
 
+
 ## 🤝 Contributing
 
 Contributions and suggestions are always welcome! Feel free to open an issue or submit a pull request.
@@ -19,4 +20,9 @@ Contributions and suggestions are always welcome! Feel free to open an issue or 
 ## ⭐ Support
 
 If you find these projects helpful, consider giving this repository a ⭐ on GitHub.
+
+
+🎯 Goal
+
+This repository aims to help beginners learn Python through simple, practical, and enjoyable projects while building programming confidence and strengthening problem-solving skills.
 
