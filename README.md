@@ -2,19 +2,15 @@
 
 A collection of beginner-friendly Python mini projects designed to strengthen core Python programming concepts through hands-on practice. Each project focuses on improving problem-solving skills, logical thinking, and coding fundamentals through fun and interactive projects.
 
-## 📂 Projects Included
-
-* ✅ Number Guessing Game
-* ✅ Word Guessing Game
-* ✅ Hangman Game
-* ✅ Rock Paper Scissors Game
-* ✅ Guess the word Game
-* ✅ snake water gun Game
-* 🚧 More exciting mini projects coming soon!
-
-## 🎯 Goal
-
-This repository aims to help beginners learn Python by building simple, practical, and enjoyable projects while developing confidence in programming and strengthening problem-solving skills.
+📂 Projects Included
+✅ Number Guessing Game
+✅ Word Guessing Game
+✅ Hangman Game
+✅ Rock Paper Scissors Game
+✅ Guess the Word Game
+✅ Snake, Water & Gun Game
+🚧 OOP-based Python projects coming soon!
+🚧 More exciting mini projects coming soon!.
 
 ## 🤝 Contributing
 
