@@ -2,9 +2,9 @@
 
 A collection of beginner-friendly Python mini projects designed to strengthen core Python programming concepts through hands-on practice. Each project focuses on improving problem-solving skills, logical thinking, and coding fundamentals through fun and interactive projects.
 
-📂 Projects Included
-✅ Number Guessing Game
-✅ Word Guessing Game
+📂 Projects Included.
+✅ Number Guessing Game.
+✅ Word Guessing Game.
 ✅ Hangman Game
 ✅ Rock Paper Scissors Game
 ✅ Guess the Word Game
