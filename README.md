@@ -10,6 +10,7 @@ A collection of beginner-friendly Python mini projects designed to strengthen co
 - ✅ Rock Paper Scissors Game
 - ✅ Guess the Word Game
 - ✅ Snake, Water & Gun Game
+- ✅ classes and Objects(python OOps)
 - 🚧 OOP-based Python projects coming soon!
 - 🚧 More exciting mini projects coming soon!
 
