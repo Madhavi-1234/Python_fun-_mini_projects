@@ -11,6 +11,7 @@ A collection of beginner-friendly Python mini projects designed to strengthen co
 - ✅ Guess the Word Game
 - ✅ Snake, Water & Gun Game
 - ✅ classes and Objects(python OOps)
+- ✅ Encapsulation(python OOps)
 - 🚧 OOP-based Python projects coming soon!
 - 🚧 More exciting mini projects coming soon!
 
