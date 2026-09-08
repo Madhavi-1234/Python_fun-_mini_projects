@@ -14,6 +14,7 @@ A collection of beginner-friendly Python mini projects designed to strengthen co
 - ✅ Encapsulation(python OOps)
 - ✅ Instance and static variable(python OOps)
 - ✅ Agrregation(python OOps)
+- ✅ Inheritance(python OOps)
 - 🚧 OOP-based Python projects coming soon!
 - 🚧 More exciting mini projects coming soon!
 
